@@ -1,0 +1,2 @@
+2022/09/16 03:48:19 [error] 31#31: *2 directory index of "/var/www/html/invoker/webroot/coverage/" is forbidden, client: 192.168.80.1, server: , request: "GET /coverage/ HTTP/1.1", host: "localhost:8082"
+2022/09/16 03:59:51 [error] 32#32: *7 directory index of "/var/www/html/invoker/webroot/coverage/" is forbidden, client: 192.168.80.1, server: , request: "GET /coverage/ HTTP/1.1", host: "localhost:8082"
